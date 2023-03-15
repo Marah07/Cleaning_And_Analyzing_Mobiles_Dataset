@@ -1,4 +1,4 @@
-#Mobiles
+# Mobiles
 
 The "mobiles" dataset (from web scrapping) is a comprehensive collection of information about various mobile phones. It includes details on a range of features such as the names of the phones, links to their images, ratings, reviews, prices, memory, camera, display, battery, processor, and warranty information.
 
